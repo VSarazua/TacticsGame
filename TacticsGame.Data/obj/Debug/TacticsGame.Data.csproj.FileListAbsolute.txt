@@ -1,0 +1,9 @@
+C:\Users\a_sar\Documents\Visual Studio 2015\Projects\TacticsGameDemo2\TacticsGame\TacticsGame.Data\bin\Debug\TacticsGame.Data.dll
+C:\Users\a_sar\Documents\Visual Studio 2015\Projects\TacticsGameDemo2\TacticsGame\TacticsGame.Data\bin\Debug\TacticsGame.Data.pdb
+C:\Users\a_sar\Documents\Visual Studio 2015\Projects\TacticsGameDemo2\TacticsGame\TacticsGame.Data\bin\Debug\TacticsGame.DTO.dll
+C:\Users\a_sar\Documents\Visual Studio 2015\Projects\TacticsGameDemo2\TacticsGame\TacticsGame.Data\bin\Debug\TacticsGame.Logic.dll
+C:\Users\a_sar\Documents\Visual Studio 2015\Projects\TacticsGameDemo2\TacticsGame\TacticsGame.Data\bin\Debug\TacticsGame.DTO.pdb
+C:\Users\a_sar\Documents\Visual Studio 2015\Projects\TacticsGameDemo2\TacticsGame\TacticsGame.Data\bin\Debug\TacticsGame.Logic.pdb
+C:\Users\a_sar\Documents\Visual Studio 2015\Projects\TacticsGameDemo2\TacticsGame\TacticsGame.Data\obj\Debug\TacticsGame.Data.csprojResolveAssemblyReference.cache
+C:\Users\a_sar\Documents\Visual Studio 2015\Projects\TacticsGameDemo2\TacticsGame\TacticsGame.Data\obj\Debug\TacticsGame.Data.dll
+C:\Users\a_sar\Documents\Visual Studio 2015\Projects\TacticsGameDemo2\TacticsGame\TacticsGame.Data\obj\Debug\TacticsGame.Data.pdb

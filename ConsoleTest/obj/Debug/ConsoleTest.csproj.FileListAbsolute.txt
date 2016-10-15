@@ -1,0 +1,17 @@
+C:\Users\a_sar\Documents\Visual Studio 2015\Projects\TacticsGameDemo2\TacticsGame\ConsoleTest\obj\Debug\ConsoleTest.csprojResolveAssemblyReference.cache
+C:\Users\a_sar\Documents\Visual Studio 2015\Projects\TacticsGameDemo2\TacticsGame\ConsoleTest\bin\Debug\ConsoleTest.exe.config
+C:\Users\a_sar\Documents\Visual Studio 2015\Projects\TacticsGameDemo2\TacticsGame\ConsoleTest\bin\Debug\ConsoleTest.exe
+C:\Users\a_sar\Documents\Visual Studio 2015\Projects\TacticsGameDemo2\TacticsGame\ConsoleTest\bin\Debug\ConsoleTest.pdb
+C:\Users\a_sar\Documents\Visual Studio 2015\Projects\TacticsGameDemo2\TacticsGame\ConsoleTest\bin\Debug\TacticsGame.Data.dll
+C:\Users\a_sar\Documents\Visual Studio 2015\Projects\TacticsGameDemo2\TacticsGame\ConsoleTest\bin\Debug\TacticsGame.DTO.dll
+C:\Users\a_sar\Documents\Visual Studio 2015\Projects\TacticsGameDemo2\TacticsGame\ConsoleTest\bin\Debug\TacticsGame.Logic.dll
+C:\Users\a_sar\Documents\Visual Studio 2015\Projects\TacticsGameDemo2\TacticsGame\ConsoleTest\bin\Debug\TacticsGame.Presentation.exe
+C:\Users\a_sar\Documents\Visual Studio 2015\Projects\TacticsGameDemo2\TacticsGame\ConsoleTest\bin\Debug\TacticsGame.Tests.dll
+C:\Users\a_sar\Documents\Visual Studio 2015\Projects\TacticsGameDemo2\TacticsGame\ConsoleTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\a_sar\Documents\Visual Studio 2015\Projects\TacticsGameDemo2\TacticsGame\ConsoleTest\bin\Debug\TacticsGame.Data.pdb
+C:\Users\a_sar\Documents\Visual Studio 2015\Projects\TacticsGameDemo2\TacticsGame\ConsoleTest\bin\Debug\TacticsGame.DTO.pdb
+C:\Users\a_sar\Documents\Visual Studio 2015\Projects\TacticsGameDemo2\TacticsGame\ConsoleTest\bin\Debug\TacticsGame.Logic.pdb
+C:\Users\a_sar\Documents\Visual Studio 2015\Projects\TacticsGameDemo2\TacticsGame\ConsoleTest\bin\Debug\TacticsGame.Presentation.pdb
+C:\Users\a_sar\Documents\Visual Studio 2015\Projects\TacticsGameDemo2\TacticsGame\ConsoleTest\bin\Debug\TacticsGame.Tests.pdb
+C:\Users\a_sar\Documents\Visual Studio 2015\Projects\TacticsGameDemo2\TacticsGame\ConsoleTest\obj\Debug\ConsoleTest.exe
+C:\Users\a_sar\Documents\Visual Studio 2015\Projects\TacticsGameDemo2\TacticsGame\ConsoleTest\obj\Debug\ConsoleTest.pdb

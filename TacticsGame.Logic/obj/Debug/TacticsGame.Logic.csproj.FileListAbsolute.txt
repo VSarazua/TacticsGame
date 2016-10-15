@@ -1,0 +1,5 @@
+C:\Users\a_sar\Documents\Visual Studio 2015\Projects\TacticsGameDemo2\TacticsGame\TacticsGame.Logic\bin\Debug\TacticsGame.Logic.dll
+C:\Users\a_sar\Documents\Visual Studio 2015\Projects\TacticsGameDemo2\TacticsGame\TacticsGame.Logic\bin\Debug\TacticsGame.Logic.pdb
+C:\Users\a_sar\Documents\Visual Studio 2015\Projects\TacticsGameDemo2\TacticsGame\TacticsGame.Logic\obj\Debug\TacticsGame.Logic.csprojResolveAssemblyReference.cache
+C:\Users\a_sar\Documents\Visual Studio 2015\Projects\TacticsGameDemo2\TacticsGame\TacticsGame.Logic\obj\Debug\TacticsGame.Logic.dll
+C:\Users\a_sar\Documents\Visual Studio 2015\Projects\TacticsGameDemo2\TacticsGame\TacticsGame.Logic\obj\Debug\TacticsGame.Logic.pdb

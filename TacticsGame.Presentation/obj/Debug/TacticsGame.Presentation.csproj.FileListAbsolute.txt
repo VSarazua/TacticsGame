@@ -1,0 +1,12 @@
+C:\Users\a_sar\Documents\Visual Studio 2015\Projects\TacticsGameDemo2\TacticsGame\TacticsGame.Presentation\bin\Debug\TacticsGame.Presentation.exe.config
+C:\Users\a_sar\Documents\Visual Studio 2015\Projects\TacticsGameDemo2\TacticsGame\TacticsGame.Presentation\bin\Debug\TacticsGame.Presentation.exe
+C:\Users\a_sar\Documents\Visual Studio 2015\Projects\TacticsGameDemo2\TacticsGame\TacticsGame.Presentation\bin\Debug\TacticsGame.Presentation.pdb
+C:\Users\a_sar\Documents\Visual Studio 2015\Projects\TacticsGameDemo2\TacticsGame\TacticsGame.Presentation\bin\Debug\TacticsGame.DTO.dll
+C:\Users\a_sar\Documents\Visual Studio 2015\Projects\TacticsGameDemo2\TacticsGame\TacticsGame.Presentation\bin\Debug\TacticsGame.Logic.dll
+C:\Users\a_sar\Documents\Visual Studio 2015\Projects\TacticsGameDemo2\TacticsGame\TacticsGame.Presentation\bin\Debug\TacticsGame.DTO.pdb
+C:\Users\a_sar\Documents\Visual Studio 2015\Projects\TacticsGameDemo2\TacticsGame\TacticsGame.Presentation\bin\Debug\TacticsGame.Logic.pdb
+C:\Users\a_sar\Documents\Visual Studio 2015\Projects\TacticsGameDemo2\TacticsGame\TacticsGame.Presentation\obj\Debug\TacticsGame.Presentation.csprojResolveAssemblyReference.cache
+C:\Users\a_sar\Documents\Visual Studio 2015\Projects\TacticsGameDemo2\TacticsGame\TacticsGame.Presentation\obj\Debug\TacticsGame.Presentation.exe
+C:\Users\a_sar\Documents\Visual Studio 2015\Projects\TacticsGameDemo2\TacticsGame\TacticsGame.Presentation\obj\Debug\TacticsGame.Presentation.pdb
+C:\Users\a_sar\Documents\Visual Studio 2015\Projects\TacticsGameDemo2\TacticsGame\TacticsGame.Presentation\bin\Debug\TacticsGame.Data.dll
+C:\Users\a_sar\Documents\Visual Studio 2015\Projects\TacticsGameDemo2\TacticsGame\TacticsGame.Presentation\bin\Debug\TacticsGame.Data.pdb
